@@ -1,0 +1,24 @@
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK PANSİYON VE DİNLENME TESİSİ.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK PANSİYON VE DİNLENME TESİSİ.csproj.ResolveComReference.cache
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.ANAFORM.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FrmAdminGiris.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FrmGelirGider.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FrmMesajlarcs.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FrmOdalar.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FRMRADYO.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FrmSifreGuncelle.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.FrmStok.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.Frm_Musteri.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.MüsteriBilgileri.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK_PANSİYON_VE_DİNLENME_TESİSİ.Properties.Resources.resources
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK PANSİYON VE DİNLENME TESİSİ.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK PANSİYON VE DİNLENME TESİSİ.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\bin\Debug\ZK PANSİYON VE DİNLENME TESİSİ.exe.config
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\bin\Debug\ZK PANSİYON VE DİNLENME TESİSİ.exe
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\bin\Debug\ZK PANSİYON VE DİNLENME TESİSİ.pdb
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK PANSİYON VE DİNLENME TESİSİ.exe
+C:\Users\Dell\source\repos\ZK PANSİYON VE DİNLENME TESİSİ\ZK PANSİYON VE DİNLENME TESİSİ\obj\Debug\ZK PANSİYON VE DİNLENME TESİSİ.pdb
